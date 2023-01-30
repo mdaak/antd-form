@@ -3,7 +3,7 @@ import Checkbox from 'antd/es/checkbox/Checkbox';
 import React from 'react';
 import '../styles/form.css';
 
-import { Space, Typography } from 'antd';
+import {Typography } from 'antd';
 import { FacebookOutlined, GoogleOutlined, LinkedinOutlined } from '@ant-design/icons';
 const { Text, Link } = Typography;
 const MyFormItemContext = React.createContext([]);

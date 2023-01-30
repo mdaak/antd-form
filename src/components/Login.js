@@ -36,7 +36,7 @@ const Login = () => {
           </MyFormItem>
           <MyFormItem>
             <Button block danger type="primary" htmlType="submit">
-              Submit
+              LogIn
             </Button>
           </MyFormItem>
         </MyFormItemGroup>

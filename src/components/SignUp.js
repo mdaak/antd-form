@@ -40,7 +40,7 @@ const SignUp = () => {
                     </MyFormItem>
                 </MyFormItemGroup>
                 <Button block danger type="primary" htmlType="submit">
-                    Submit
+                    SignUp
                 </Button>
                 <Text>
 
@@ -75,7 +75,7 @@ const SignUp = () => {
                     </MyFormItem>
                     <MyFormItem className="bottomMarginZero">
                         <Text>
-                            Need an account <span>SIGN UP</span>
+                            Need an account <span>LogIn</span>
                         </Text>
                     </MyFormItem>
 

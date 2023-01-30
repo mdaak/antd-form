@@ -51,7 +51,6 @@ const Login = () => {
             className="bottomMarginZero"
             style={{
               color: 'blue',
-
             }}>
             <span className="orLine" >OR</span>
             <span

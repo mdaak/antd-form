@@ -39,7 +39,7 @@ const SignUp = () => {
                         <Checkbox checked className='ant-checkbox-checked ant-checkbox-inner' /><label>Remamber me?</label>
                     </MyFormItem>
                 </MyFormItemGroup>
-                <Button style={{marginBottom:"5px"}} block danger type="primary" htmlType="submit">
+                <Button block danger type="primary" htmlType="submit">
                     Submit
                 </Button>
                 <Text>
@@ -60,7 +60,7 @@ const SignUp = () => {
                         <span className="orLine" >OR</span>
                         <span
                             style={{
-                                borderTop: "1px solid black",
+                                borderTop: "1px solid lightGray",
                                 width: "100%",
                                 position: "absolute",
                                 left: "0", top: "50%"

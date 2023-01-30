@@ -56,7 +56,7 @@ const Login = () => {
             <span className="orLine" >OR</span>
             <span
               style={{
-                borderTop: "1px solid black",
+                borderTop: "1px solid lightGray",
                 width: "100%",
                 position: "absolute",
                 left: "0", top: "50%"
